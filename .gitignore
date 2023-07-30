@@ -1,0 +1,7 @@
+.env
+data.db
+app.py
+__pycache__
+t*
+*.db
+bot.py
